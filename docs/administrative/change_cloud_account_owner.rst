@@ -29,30 +29,30 @@ accounts, Login to `Rackspace Technology Customer Portal <https://login.rackspac
 
 You can **Change the Account Owner** by using the following steps:
 
-**Step 1** Log in to the `Rackspace Technology Customer Portal <https://login.rackspace.com>`_
+**Step 1.** Log in to the `Rackspace Technology Customer Portal <https://login.rackspace.com>`_
 
-**Step 2** In the global navigation menu, click **Account** >> **Account Settings**.
+**Step 2.** In the global navigation menu, click **Account** >> **Account Settings**.
 
 .. image:: accountsetting.png
    :width: 590
    :alt: accountsetting 
 
 
-**Step 3** In Account Settings page, click **Update** next to **Account Owner**.
+**Step 3.** In Account Settings page, click **Update** next to **Account Owner**.
 
 .. image:: updateowner.png
    :width: 656
    :alt: updateowner
 
 
-**Step 4** In Update Account Owner page, select a **User** from the User list to be assigned as New Account Owner. Fill in the address details of Account Owner and click **Submit**.
+**Step 4.** In Update Account Owner page, select a **User** from the User list to be assigned as New Account Owner. Fill in the address details of Account Owner and click **Submit**.
 
 .. image:: selectownernew.png
    :width: 553
    :alt: selectownernew
 
 
-**Step 5** Click **Confirm** to change the **Primary Account Owner**.
+**Step 5.** Click **Confirm** to change the **Primary Account Owner**.
 
 .. image:: confirmnewowner.png
    :width: 793
