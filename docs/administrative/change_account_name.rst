@@ -8,7 +8,9 @@ Complete a **Service Transfer** form if your company has filed for a name change
 
 You can download the **Service Transfer** form by using the following steps:
 
-.. note::  If you are a Private Cloud customer, you can request all of the forms described in this guide from your Account Manager.
+      .. note:: 
+    
+         If you are a Private Cloud customer, you can request all of the forms described in this guide from your Account Manager.
 
 **Step 1.** Log in to the `Rackspace Technology Customer Portal <https://login.rackspace.com/>`_.
 
@@ -31,20 +33,28 @@ You can download the **Service Transfer** form by using the following steps:
 
 **Step 6.** Select **Tickets** > **Create Ticket** from the top navigation panel.
 
-<img width="331" alt="Create Ticket" src="Create Ticket.png">
+.. image:: createticket.png
+   :width: 331
+   :alt: createticket 
 
 **Step 7.** In **Create Ticket** page, select the appropriate **Category** from Category section and click **Continue**.
 
-<img width="470" alt="Category" src="Category.png">
+.. image:: category.png
+   :width: 470
+   :alt: category 
 
 **Step 8.** In **Account & Product** section, click **drop-down** and select the appropriate **Account**, **Product**, and **Severity** and click **Continue** as shown in the below image.
 
-<img width="380" alt="Account Product   Severity" src="Account Product & Severity.png">
+.. image:: accountproduct&severity.png
+   :width: 380
+   :alt: accountproduct&severity
 
 **Step 9.** In **Issue Details** section, fill in details of Subject, Description, and Recipient(s). Upload the **Account Change Form** as attachments with
 **Company Name Change Request** in the subject line and click **Submit**. Your ticket will be created.
 
-<img width="379" alt="Issue Details" src="Issue Details.png">
+.. image:: issuedetails.png
+   :width: 379
+   :alt: issuedetails
 
 
 
