@@ -1,28 +1,23 @@
----
-permalink: change-account-company-name
-audit_date: '2018-03-13'
-title: Change an account's company name
-type: article
-created_date: '2018-03-13'
-created_by: Rackspace Support
-last_modified_date: '2022-07-04'
-last_modified_by: Rohit Rajput 
----
+.. _change_account_name:
 
-Change your account's company name
+
+Change your Account's Company Name
 ====================================
 
 Complete a **Service Transfer** form if your company has filed for a name change with the Secretary of State where the company is registered, and the tax ID is changed.
 
 You can download the **Service Transfer** form by using the following steps:
 
-**Note** If you are a Private Cloud customer, you can request all of the forms described in this guide from your Account Manager.
+.. note::  If you are a Private Cloud customer, you can request all of the forms described in this guide from your Account Manager.
 
 **Step 1.** Log in to the `Rackspace Technology Customer Portal <https://login.rackspace.com/>`_.
 
 **Step 2.** In the top navigation panel, select **Account >> Docs and Forms**.
 
-<img width="349" alt="Docs and forms" src="Docs and forms.png">
+.. image:: accdocs&forms.png
+   :width: 349
+   :alt: accdocs&forms 
+
 
 **Step 3.** In the **Documents and Forms** page, select the appropriate options below **Transfer Ownership to a new Account owner**:
 
@@ -38,15 +33,15 @@ You can download the **Service Transfer** form by using the following steps:
 
 <img width="331" alt="Create Ticket" src="Create Ticket.png">
 
-**Step 6.**In **Create Ticket** page, select the appropriate **Category** from Category section and click **Continue**.
+**Step 7.** In **Create Ticket** page, select the appropriate **Category** from Category section and click **Continue**.
 
 <img width="470" alt="Category" src="Category.png">
 
-**Step 7.** In **Account & Product** section, click **drop-down** and select the appropriate **Account**, **Product**, and **Severity** and click **Continue** as shown in the below image.
+**Step 8.** In **Account & Product** section, click **drop-down** and select the appropriate **Account**, **Product**, and **Severity** and click **Continue** as shown in the below image.
 
 <img width="380" alt="Account Product   Severity" src="Account Product & Severity.png">
 
-**Step 8.** In **Issue Details** section, fill in details of Subject, Description, and Recipient(s). Upload the **Account Change Form** as attachments with
+**Step 9.** In **Issue Details** section, fill in details of Subject, Description, and Recipient(s). Upload the **Account Change Form** as attachments with
 **Company Name Change Request** in the subject line and click **Submit**. Your ticket will be created.
 
 <img width="379" alt="Issue Details" src="Issue Details.png">
